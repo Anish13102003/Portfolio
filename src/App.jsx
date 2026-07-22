@@ -656,7 +656,7 @@ function App() {
                     value={formData.name}
                     onChange={handleInputChange}
                     className="form-input"
-                    placeholder="John Doe"
+                    placeholder="Anish M"
                     required
                   />
                 </div>
@@ -669,7 +669,7 @@ function App() {
                     value={formData.email}
                     onChange={handleInputChange}
                     className="form-input"
-                    placeholder="john@example.com"
+                    placeholder="email@example.com"
                     required
                   />
                 </div>
