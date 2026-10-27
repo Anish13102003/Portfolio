@@ -25,7 +25,7 @@ import voiceEmailImg from './assets/projects/voice_email.png';
 import trustRelayImg from './assets/projects/trust_relay.png';
 import learningJourneyImg from './assets/projects/learning_journey.png';
 import studentManagementImg from './assets/projects/student_management.png';
-import profileImg from './assets/profile.png';
+import profileImg from './assets/image.jpeg';
 
 // Custom SVG components for brand icons that were removed in Lucide v1.0.0
 const Github = ({ size = 24, className = "" }) => (
